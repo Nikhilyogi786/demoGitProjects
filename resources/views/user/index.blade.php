@@ -38,8 +38,17 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-6">
+<<<<<<< .merge_file_Y1ehWe
                 <h2>Welcome, User Your name!</h2>
+=======
+<<<<<<< HEAD
+                <h2>Welcome, Nikhil!</h2>
+>>>>>>> .merge_file_kiugiC
                 <p>This is your daily routine page.</p>
+=======
+                <h2>Welcome, User!</h2>
+                <p>This is your daily routine page.tet</p>
+>>>>>>> newdemo
                 <ul class="list-group">
                     <li class="list-group-item">Task 1</li>
                     <li class="list-group-item">Task 2</li>
