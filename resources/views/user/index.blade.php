@@ -38,7 +38,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-6">
-                <h2>Welcome, User!</h2>
+                <h2>Welcome, Nikhil!</h2>
                 <p>This is your daily routine page.</p>
                 <ul class="list-group">
                     <li class="list-group-item">Task 1</li>
