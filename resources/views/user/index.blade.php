@@ -38,13 +38,9 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-6">
-<<<<<<< HEAD
                 <h2>Welcome, Nikhil!</h2>
                 <p>This is your daily routine page.</p>
-=======
-                <h2>Welcome, User!</h2>
-                <p>This is your daily routine page.tet</p>
->>>>>>> newdemo
+           
                 <ul class="list-group">
                     <li class="list-group-item">Task 1</li>
                     <li class="list-group-item">Task 2</li>
